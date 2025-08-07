@@ -96,10 +96,21 @@ header{
     font-size: 20px;
     color: #00000080;
 }
-.touch{
-    display: flex;
-    flex-direction: row;
+
+.footer-upore{
+    background-color: #4E47FF;
+    margin-top: 100px;
 }
+
+footer nav a {
+    text-decoration: none;
+}
+
+
+
+/* ata holo 1st assignment 50% hoy ni tai abar ditasi , ami 2 hour j golu sompurno hoise kpre fhelsi but footer and footer uporer section ta partasi na 2 day dhore try korsi onek kisu poribortun korlam but website giye dekhi kisui change hoy na ami ki korbo bujtasi na ami r partasi na ati joma diya fhelsi ,amake feedback ta diyen kno holo na . ami partasi na */
+
+
 
 
 
